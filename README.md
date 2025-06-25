@@ -44,9 +44,14 @@ Backend:
 📦 Installation & Setup
 1. Clone the repository
 
-git clone https://www.github.com/mohitsharma1507/MERN_WORK
+   git clone https://www.github.com/mohitsharma1507/MERN_WORK
 2. Set up the backend
-
-cd backend npm i node app.js
-3. Set up the frontend
-cd frontend npm i npm run dev
+   
+   ->cd backend
+   ->npm i
+   ->node app.js
+4. Set up the frontend
+   
+   ->cd frontend
+   ->npm i
+   ->npm run dev
